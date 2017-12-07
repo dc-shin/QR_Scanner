@@ -1,0 +1,19 @@
+{
+  "name": "ader",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "ADer",
+  "author": {
+    "name": "dykim"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6",
+    "qrcode": "1.0.0"
+  }
+}
